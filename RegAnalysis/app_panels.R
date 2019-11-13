@@ -1,0 +1,1 @@
+POP <- read.csv("C:/INESIS/R_tutorial/RShiny/RShinyREGAnal/export_r1_POP.csv", header=TRUE)
